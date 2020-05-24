@@ -1,0 +1,76 @@
+{
+    "kind": "drive#file",
+    "id": "184xXr4eq41SdBDiOOogMy2ajSjKFNT7H",
+    "etag": "\"MTU4OTIzODQwODQ0Mw\"",
+    "selfLink": "https://www.googleapis.com/drive/v2/files/184xXr4eq41SdBDiOOogMy2ajSjKFNT7H",
+    "webContentLink": "https://drive.google.com/uc?id=184xXr4eq41SdBDiOOogMy2ajSjKFNT7H&export=download",
+    "alternateLink": "https://drive.google.com/file/d/184xXr4eq41SdBDiOOogMy2ajSjKFNT7H/view?usp=drivesdk",
+    "embedLink": "https://drive.google.com/file/d/184xXr4eq41SdBDiOOogMy2ajSjKFNT7H/preview?usp=drivesdk",
+    "iconLink": "https://drive-thirdparty.googleusercontent.com/16/type/application/geo+json",
+    "title": "sentinel2_tiles.geojson",
+    "mimeType": "application/geo+json",
+    "labels": {
+     "starred": false,
+     "hidden": false,
+     "trashed": false,
+     "restricted": false,
+     "viewed": true
+    },
+    "copyRequiresWriterPermission": false,
+    "createdDate": "2020-05-11T23:04:21.779Z",
+    "modifiedDate": "2020-05-11T23:06:48.443Z",
+    "lastViewedByMeDate": "2020-05-23T18:06:12.270Z",
+    "markedViewedByMeDate": "1970-01-01T00:00:00.000Z",
+    "sharedWithMeDate": "2020-05-14T10:03:54.574Z",
+    "version": "14",
+    "parents": [],
+    "downloadUrl": "https://content.googleapis.com/drive/v2/files/184xXr4eq41SdBDiOOogMy2ajSjKFNT7H?key=AIzaSyAa8yy0GdcGPHdtD083HiGGx_S0vMPScDM&alt=media&source=downloadUrl",
+    "userPermission": {
+     "kind": "drive#permission",
+     "etag": "\"ZiiduAUDX1_Auk72VwQvLoeFMgs\"",
+     "id": "me",
+     "selfLink": "https://www.googleapis.com/drive/v2/files/184xXr4eq41SdBDiOOogMy2ajSjKFNT7H/permissions/me",
+     "role": "reader",
+     "type": "user"
+    },
+    "originalFilename": "s2tiles_2.geojson",
+    "fileExtension": "geojson",
+    "md5Checksum": "4ed46c02f915b0328d5e565a4efbc067",
+    "fileSize": "98092816",
+    "quotaBytesUsed": "0",
+    "ownerNames": [
+     "Serhii Slipushenko"
+    ],
+    "owners": [
+     {
+      "kind": "drive#user",
+      "displayName": "Serhii Slipushenko",
+      "isAuthenticatedUser": false,
+      "permissionId": "07218997956375838455",
+      "emailAddress": "s.slipushenko@quantumobile.com"
+     }
+    ],
+    "lastModifyingUserName": "Serhii Slipushenko",
+    "lastModifyingUser": {
+     "kind": "drive#user",
+     "displayName": "Serhii Slipushenko",
+     "isAuthenticatedUser": false,
+     "permissionId": "07218997956375838455",
+     "emailAddress": "s.slipushenko@quantumobile.com"
+    },
+    "capabilities": {
+     "canCopy": true,
+     "canEdit": false
+    },
+    "editable": false,
+    "copyable": true,
+    "writersCanShare": true,
+    "shared": true,
+    "explicitlyTrashed": false,
+    "appDataContents": false,
+    "headRevisionId": "0B_a24BSgD68wYXY5czViNU1vRVRHME5wNHB6RDR2YnJhNjlVPQ",
+    "spaces": [
+     "drive"
+    ]
+   }
+   
